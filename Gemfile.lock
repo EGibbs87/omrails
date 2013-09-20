@@ -27,6 +27,7 @@ GEM
       tzinfo (~> 0.3.37)
     arel (4.0.0)
     atomic (1.1.13)
+    bcrypt-ruby (3.1.2)
     bcrypt-ruby (3.1.2-x86-mingw32)
     bootstrap-sass (2.2.2.0)
       sass (~> 3.2)
@@ -62,6 +63,7 @@ GEM
     minitest (4.7.5)
     multi_json (1.7.9)
     orm_adapter (0.4.0)
+    pg (0.16.0)
     pg (0.16.0-x86-mingw32)
     polyglot (0.3.3)
     protected_attributes (1.0.2)
@@ -122,6 +124,7 @@ GEM
       rack (>= 1.0)
 
 PLATFORMS
+  ruby
   x86-mingw32
 
 DEPENDENCIES
