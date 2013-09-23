@@ -7,6 +7,7 @@ ruby '1.9.3'
 gem 'rails', '4.0.0.rc2'
 gem 'devise', '3.0.0.rc'
 gem 'simple_form'
+gem "paperclip", "~> 3.0"
 gem 'protected_attributes'
 
 # Use sqlite3 as the database for Active Record
