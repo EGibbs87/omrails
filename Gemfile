@@ -12,6 +12,7 @@ gem 'protected_attributes'
 # Use sqlite3 as the database for Active Record
 group :production do
   gem 'pg'
+  gem 'thin'
 end
 
 group :development, :test do
