@@ -2,6 +2,12 @@ require File.expand_path('../boot', __FILE__)
 
 require 'rails/all'
 
+#eversion of your assets, change this if you want to expire all your assets
+config.assets.version = '1.0'
+
+#Change the path that assets are served from 
+config.assets.prefix = "/assets"
+
 # Require the gems listed in Gemfile, including any gems
 # you've limited to :test, :development, or :production.
 Bundler.require(:default, Rails.env)
