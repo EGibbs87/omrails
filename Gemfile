@@ -9,6 +9,7 @@ gem 'devise', '3.0.0.rc'
 gem 'simple_form'
 gem "paperclip", "~> 3.0"
 gem 'protected_attributes'
+gem 'aws-sdk'
 
 # Use sqlite3 as the database for Active Record
 group :production do
