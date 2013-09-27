@@ -7,9 +7,11 @@ ruby '1.9.3'
 gem 'rails', '4.0.0.rc2'
 gem 'devise', '3.0.0.rc'
 gem 'simple_form'
-gem "paperclip", "~> 3.0"
+gem "cocaine", "= 0.3.2"
+gem 'paperclip', "= 3.0.4"
 gem 'protected_attributes'
 gem 'aws-sdk'
+
 
 # Use sqlite3 as the database for Active Record
 group :production do
