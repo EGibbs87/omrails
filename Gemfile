@@ -7,8 +7,8 @@ ruby '1.9.3'
 gem 'rails', '4.0.0.rc2'
 gem 'devise', '3.0.0.rc'
 gem 'simple_form'
-gem "cocaine", "= 0.5.0"
-gem 'paperclip', "~> 3.5.1"
+gem "cocaine", "= 0.3.2"
+gem 'paperclip', "~> 3.2.1"
 gem 'protected_attributes'
 gem 'aws-sdk'
 
