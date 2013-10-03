@@ -1,0 +1,179 @@
+commit 70b57586b6df740a69de59215965ed037be635f5
+Author: Erik <flyers_rock_87@hotmail.com>
+Date:   Wed Oct 2 15:52:42 2013 -0400
+
+    Update cocaine and paperclip, still nonfunctional URL loading
+
+commit bcf3a0e3a9aa579490008c1548a591012cf6ee70
+Author: Erik <flyers_rock_87@hotmail.com>
+Date:   Wed Oct 2 12:52:14 2013 -0400
+
+    Drop paperclip to 3.2.1
+
+commit 33a4cdcb76318824a5567c11acae1c673b35e8cd
+Author: Erik <flyers_rock_87@hotmail.com>
+Date:   Tue Oct 1 12:04:06 2013 -0400
+
+    Troubleshoot URL upload
+
+commit ac5e35d9711491e55b0c97575c57dab40ed0cfed
+Author: Erik <flyers_rock_87@hotmail.com>
+Date:   Fri Sep 27 13:57:16 2013 -0400
+
+    Add Image Uploading via URL (incomplete)
+
+commit 03b8cc68c7315918ca1bcc8b62f6dd7614339b92
+Author: Erik <flyers_rock_87@hotmail.com>
+Date:   Thu Sep 26 13:51:59 2013 -0400
+
+    Connect Amazon S3
+
+commit 6f0de393906a2e10b9695f1264fbeb23074ca1e3
+Author: Erik <erik@Glados-studio-1555.(none)>
+Date:   Tue Sep 24 20:25:39 2013 -0400
+
+    Reroute root to pins#index
+
+commit a0d1809f6f9559f4571aade5479e826c8b19108c
+Author: Erik <erik@Glados-studio-1555.(none)>
+Date:   Tue Sep 24 20:19:11 2013 -0400
+
+    Add jQuery Masonry
+
+commit 46907d6aa44de6c3102a573d8dfaca563ce0646f
+Author: Erik <erik@Glados-studio-1555.(none)>
+Date:   Tue Sep 24 18:45:26 2013 -0400
+
+    Revert all environment settings?
+
+commit 86f054ae1823ace126f0e1f48172de5098e56f0f
+Author: Erik <erik@Glados-studio-1555.(none)>
+Date:   Tue Sep 24 18:43:31 2013 -0400
+
+    Update application.rb and production.rb
+
+commit 3c065bb2705054686da6246a58853d003f430058
+Author: Erik <erik@Glados-studio-1555.(none)>
+Date:   Tue Sep 24 18:41:47 2013 -0400
+
+    Update production.rb
+
+commit 5762e1daa299ad75144520d0972e1f347ce67cd1
+Author: Erik <erik@Glados-studio-1555.(none)>
+Date:   Tue Sep 24 18:36:45 2013 -0400
+
+    Update environments per edgeguides
+
+commit c4d550bde24913f122a936c77c7e85163c72240d
+Author: Erik <erik@Glados-studio-1555.(none)>
+Date:   Mon Sep 23 19:49:45 2013 -0400
+
+    Add Paperclip Gem
+
+commit 77079abef177418289080b7b2d2c9d407bb8f554
+Author: Erik <erik@Glados-studio-1555.(none)>
+Date:   Mon Sep 23 19:20:50 2013 -0400
+
+    updated to properly push to heroku
+
+commit 13f2fa5ad4912d207208b4f8cd2266080c567253
+Author: Erik <erik@Glados-studio-1555.(none)>
+Date:   Fri Sep 20 19:05:47 2013 -0400
+
+    Fixed show name issue
+
+commit 9aed3db3c92ab4aa3c8d8d824670638c2cd931f9
+Author: Erik <flyers_rock_87@hotmail.com>
+Date:   Wed Sep 18 17:21:40 2013 -0400
+
+    Still doesn't display name
+
+commit 93267e0ab430afb2becab7e7b3bca6f90e49ff16
+Author: Erik <flyers_rock_87@hotmail.com>
+Date:   Fri Sep 13 15:04:55 2013 -0400
+
+    Add Pins Scaffold
+
+commit e7d95ded1a0443ba13a428dab6da157e002913bd
+Author: Erik <flyers_rock_87@hotmail.com>
+Date:   Thu Sep 12 14:32:20 2013 -0400
+
+    fix user.rb
+
+commit 54a3f51ba648cac26fedf76c2fb5bb644ff89831
+Author: Erik <flyers_rock_87@hotmail.com>
+Date:   Thu Sep 12 13:54:20 2013 -0400
+
+    temp remove :recoverable module
+
+commit 19d6681d0347fe41c9bc84e57f6305efdc9ea6a6
+Author: Erik <flyers_rock_87@hotmail.com>
+Date:   Thu Sep 12 13:48:24 2013 -0400
+
+    Added users with devise
+
+commit f2495114bb4a69cdab305b9cd42c1d8e2e472ffe
+Author: Erik <flyers_rock_87@hotmail.com>
+Date:   Thu Aug 29 12:02:38 2013 -0400
+
+    Added Bootstrap
+
+commit 91ae373d885e13f9495e90078aec7192df61951e
+Author: Erik <flyers_rock_87@hotmail.com>
+Date:   Tue Aug 27 11:52:55 2013 -0400
+
+    Did rails generate controller Pages home
+
+commit 3fb2dec12b93c888a50e1ca4788b46aae6187020
+Author: Erik <flyers_rock_87@hotmail.com>
+Date:   Tue Aug 27 11:42:35 2013 -0400
+
+    Removed :assets group from gemfile
+
+commit 4226008ffa64425a846c8f2fe56e01d1a66ce848
+Author: Erik <flyers_rock_87@hotmail.com>
+Date:   Thu Aug 22 17:12:08 2013 -0400
+
+    updated production.rb
+
+commit 745569838899074c21772fc57cd00e56f40ed1d4
+Author: Erik <flyers_rock_87@hotmail.com>
+Date:   Thu Aug 22 16:56:49 2013 -0400
+
+    Updated bin/[bundle, rails, and rake] files to exclude .exe from header
+
+commit c521765777f1850d8be86b4c73775cad30e40e02
+Author: Erik <flyers_rock_87@hotmail.com>
+Date:   Thu Aug 22 15:32:05 2013 -0400
+
+    add assets group to gemfile
+
+commit d8cd8273f55c9d334c24934fae3b66048e9e752f
+Author: Erik <flyers_rock_87@hotmail.com>
+Date:   Thu Aug 22 15:25:40 2013 -0400
+
+    Added Ruby version (1.9.3)
+
+commit a94db70445a270d021cfbcd505f01fd27bbbe85d
+Author: Erik <flyers_rock_87@hotmail.com>
+Date:   Thu Aug 22 15:17:39 2013 -0400
+
+    Add pg gem for Heroku
+
+commit b65b8dfe81bf7baf13ba85596d5c661821ed9a58
+Author: Erik <flyers_rock_87@hotmail.com>
+Date:   Tue Aug 20 14:43:51 2013 -0400
+
+    Edited README(s)
+
+commit ab042a2ebc0566c1140acb0f1ee807fdfe61425a
+Author: Erik <flyers_rock_87@hotmail.com>
+Date:   Tue Aug 20 13:28:14 2013 -0400
+
+    re-commit
+
+commit a8f7ab75caf3fcb4d921961f7c311cc318023b9b
+Author: Erik <flyers_rock_87@hotmail.com>
+Date:   Wed Aug 14 15:02:10 2013 -0400
+
+    Initial Commit
