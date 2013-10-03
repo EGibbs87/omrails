@@ -11,6 +11,7 @@ gem "cocaine", "= 0.5.0"
 gem 'paperclip', "~> 3.5.1"
 gem 'protected_attributes'
 gem 'aws-sdk'
+gem 'faker'
 
 
 # Use sqlite3 as the database for Active Record

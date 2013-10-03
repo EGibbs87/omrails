@@ -58,6 +58,8 @@ GEM
     eventmachine (1.0.3-x86-mingw32)
     execjs (1.4.0)
       multi_json (~> 1.0)
+    faker (1.1.2)
+      i18n (~> 0.5)
     hike (1.2.3)
     i18n (0.6.5)
     jbuilder (1.5.0)
@@ -156,6 +158,7 @@ DEPENDENCIES
   cocaine (= 0.5.0)
   coffee-rails (~> 4.0.0)
   devise (= 3.0.0.rc)
+  faker
   jbuilder (~> 1.2)
   jquery-rails
   paperclip (~> 3.5.1)
